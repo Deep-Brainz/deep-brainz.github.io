@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/DeepBrainz/042f17eb-99a8-4e22-b301-d373141d1112/358af3d3-64dc-484a-8220-2d3d9f338fd6/_apis/work/boardbadge/e6a92fc2-b194-49a9-bc6b-2f1b158b9c8a)](https://dev.azure.com/DeepBrainz/042f17eb-99a8-4e22-b301-d373141d1112/_boards/board/t/358af3d3-64dc-484a-8220-2d3d9f338fd6/Microsoft.RequirementCategory)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Deep-Brainz/deepbrainz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
